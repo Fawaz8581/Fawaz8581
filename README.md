@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Fawaz8581
-- 👀 I’m interested in Gaming 
-- 🌱 I’m currently learning Programming
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Instagram Fawaz8581_ or Discord Fawaz8581
+My name is Fawaz, known as Fawaz8581/Lyxels, and I'm an 18 y.o. Information Technology enthusiast
 
 <!---
 Fawaz8581/Fawaz8581 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
